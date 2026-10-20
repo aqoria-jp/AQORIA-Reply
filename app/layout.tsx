@@ -3,6 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "AQORIA Reply",
+  icons: { icon: "/favicon.svg" },
   description: "問い合わせの整理・優先順位付け・返信案作成を支援する営業デモ",
 };
 
